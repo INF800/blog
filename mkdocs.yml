@@ -1,5 +1,7 @@
 site_name: The Artificial Intelligence Blog
 markdown_extensions:
     - pymdownx.tabbed
+    - pymdownx.arithmatex:
+        generic: true
 theme:
     name: material
