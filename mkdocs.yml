@@ -1,3 +1,5 @@
 site_name: The Artificial Intelligence Blog
+markdown_extensions:
+    - pymdownx.tabbed
 theme:
     name: material

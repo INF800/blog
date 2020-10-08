@@ -2,6 +2,26 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+$$
+\operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}
+$$
+
+=== "Tab 1"
+
+        from numpy import *  
+
+=== "Full code"
+
+        from numpy import *  
+        from numpy import *  
+        from numpy import *  
+        from numpy import *  
+        from numpy import *  
+        from numpy import *  
+        from numpy import *  
+
+    
+
 ## Sub Topic 1-1
 
 * `mkdocs new [dir-name]` - Create a new project.
