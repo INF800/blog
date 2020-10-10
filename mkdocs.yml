@@ -3,5 +3,8 @@ markdown_extensions:
     - pymdownx.tabbed
     - pymdownx.arithmatex:
         generic: true
+
 theme:
     name: material
+    features:
+        - navigation.tabs
